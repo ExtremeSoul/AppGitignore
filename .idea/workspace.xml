@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8aa445a-769a-4df0-b328-c975e4d489a1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/sda/Company.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/sda/Customer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/sda/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/sda/FullTimeEmployee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/sda/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/sda/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/sda/StudentEmployee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/sda/TemporaryEmployee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AppGitignore/sda/Main.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -252,12 +264,20 @@
       <updated>1509801417649</updated>
       <workItem from="1509801421577" duration="1623000" />
       <workItem from="1509803096707" duration="138000" />
-      <workItem from="1509803266441" duration="1206000" />
+      <workItem from="1509803266441" duration="1461000" />
     </task>
+    <task id="LOCAL-00001" summary="AddGitignore">
+      <created>1509804557173</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1509804557173</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2967000" />
+    <option name="totallyTimeSpent" value="3222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -322,6 +342,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AddGitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="AddGitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
